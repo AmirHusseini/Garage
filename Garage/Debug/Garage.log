@@ -1,0 +1,13 @@
+﻿  Garaget.cpp
+C:\Users\husse\source\repos\Garage\Garage\Garaget.cpp(14,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\husse\source\repos\Garage\Garage\Garaget.cpp(49,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\husse\source\repos\Garage\Garage\Garaget.cpp(156,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\husse\source\repos\Garage\Garage\Garaget.cpp(189,11): warning C4018: '<': signed/unsigned mismatch
+C:\Users\husse\source\repos\Garage\Garage\Garaget.cpp(210,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\husse\source\repos\Garage\Garage\Garaget.cpp(227,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\husse\source\repos\Garage\Garage\Garaget.cpp(243,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\husse\source\repos\Garage\Garage\Garaget.cpp(260,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\husse\source\repos\Garage\Garage\Garaget.cpp(273,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\husse\source\repos\Garage\Garage\Garaget.cpp(88): warning C4715: 'myGarage::processChoice': not all control paths return a value
+C:\Users\husse\source\repos\Garage\Garage\Garaget.cpp(169): warning C4715: 'myGarage::removeVehicle': not all control paths return a value
+  Garage.vcxproj -> C:\Users\husse\source\repos\Garage\Debug\Garage.exe
